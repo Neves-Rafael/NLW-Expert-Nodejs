@@ -5,7 +5,7 @@
 
 
 <p align="center">
-Durante o período de 3 dias, mergulhei de cabeça em tecnologias como JavaScript, TypeScript, Fastify, Docker entre outras, para criar uma aplicação que permite a rápida criação de enquetes, realizar votos e alterar para outras opções recebendo em tempo real a atualização dos votos juntamente com o cálculo de todos votos dos usuários nas enquetes, utilizando também pela primeira vez o prisma que possui modelo de dados intuitivo, migrações automatizadas, segurança de tipo e preenchimento automático com os bancos de dados PostgreSQL/redis e a potência dos WebSockets para retornar os resultados rapidamente. 
+Durante o período de 3 dias participei do evento NLW na RocketSeat onde mergulhei de cabeça em tecnologias como JavaScript, TypeScript, Fastify, Docker entre outras, para criar uma aplicação que permite a rápida criação de enquetes, realizar votos e alterar para outras opções recebendo em tempo real a atualização dos votos juntamente com o cálculo de todos votos dos usuários nas enquetes, utilizando também pela primeira vez o prisma que possui modelo de dados intuitivo, migrações automatizadas, segurança de tipo e preenchimento automático com os bancos de dados PostgreSQL/redis e a potência dos WebSockets para retornar os resultados rapidamente. 
 A jornada de aprendizado foi desafiadora e extremamente gratificante, desde a configuração de ambientes com Docker até a implementação de lógicas mais complexas com TypeScript. <p>
 <br/>
 
